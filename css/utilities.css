@@ -1,6 +1,5 @@
 *{
 	margin: 0px;
-	padding: 0px;
 	text-align: center;
 	font-family: Open Sans;
 }
@@ -18,8 +17,6 @@ border-bottom-right-radius: 1em;
 	width: 5em;
 }
 
-.merryweather
-
-.pd-5 {
-padding: 5%;
+.pd-3  {
+padding: 3%;
 }
