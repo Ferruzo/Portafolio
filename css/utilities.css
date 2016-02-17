@@ -14,8 +14,8 @@ hr {
 	margin: auto;
 }
 
-.strong {
-	font-weight: bold;
+.strong-600 {
+	font-weight: 600;
 }
 
 .texto {
