@@ -2,12 +2,13 @@
 	margin: 0px;
 	padding: 0px;
 	text-align: center;
+	font-family: Open Sans;
 }
 .rojo{
 	background-color: #F05F40;
 }
 .btn{
-	border-top-left-radius: 1em;	
+	border-top-left-radius: 1em;
 border-top-right-radius: 1em;
 border-bottom-left-radius: 1em;
 border-bottom-right-radius: 1em;
@@ -16,9 +17,8 @@ border-bottom-right-radius: 1em;
 	color:#F05F40;
 	width: 5em;
 }
-h2{
 
-}
+.merryweather
 
 .pd-5 {
 padding: 5%;
