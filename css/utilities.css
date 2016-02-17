@@ -8,8 +8,8 @@
 }
 
 hr {
-	width: 2.5em;
-	height: 0.3em;
+	width: 2.5rem;
+	height: 0.3rem;
 	border: none;
 	margin: auto;
 }
@@ -19,7 +19,7 @@ hr {
 }
 
 .texto {
-	font-size: 12px;
+	font-size: 1.3rem;
 }
 
 .pd-3  {
@@ -27,10 +27,10 @@ padding: 1%;
 }
 
 .btn{
-border-top-left-radius: 1em;
-border-top-right-radius: 1em;
-border-bottom-left-radius: 1em;
-border-bottom-right-radius: 1em;
+border-top-left-radius: 1rem;
+border-top-right-radius: 1rem;
+border-bottom-left-radius: 1rem;
+border-bottom-right-radius: 1rem;
 }
 
 .text-white {
