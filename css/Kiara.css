@@ -28,6 +28,26 @@
     background-color: #fff;
     border: 1px solid #000;
     color: #000;
-    font-size: 11px;
+    font-size: 1.1rem;
     font-weight: bold;
+}
+
+.contactame-main-text {
+    width: 55%;
+    margin: 25px auto;
+}
+
+.correo {
+    color: #F05F40;
+}
+
+.contacto-icons {
+    font-size: 3rem;
+}
+
+.asd {
+display: inline-block;
+float: none;
+text-align: center;
+margin-right: -4px;
 }
