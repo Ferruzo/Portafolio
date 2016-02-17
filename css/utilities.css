@@ -27,10 +27,11 @@ padding: 3%;
 }
 
 .btn{
-border-top-left-radius: 1rem;
-border-top-right-radius: 1rem;
-border-bottom-left-radius: 1rem;
-border-bottom-right-radius: 1rem;
+padding: 1rem 2rem;
+border-top-left-radius: 1.8rem;
+border-top-right-radius: 1.8rem;
+border-bottom-left-radius: 1.8rem;
+border-bottom-right-radius: 1.8rem;
 }
 
 .text-white {

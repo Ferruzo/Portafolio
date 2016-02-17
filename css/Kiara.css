@@ -8,5 +8,26 @@
 }
 
 #pics img {
-    
+    width: 100%;
+}
+
+.col-lg-4 {
+    margin: 0;
+    padding: 0;
+}
+
+#github {
+    background-color: #222222;
+}
+
+#github p {
+    font-size: 18px;
+}
+
+.ver-mi-github-btn {
+    background-color: #fff;
+    border: 1px solid #000;
+    color: #000;
+    font-size: 11px;
+    font-weight: bold;
 }
