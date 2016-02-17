@@ -1,5 +1,8 @@
 .hero-img{
-	background-image: url(../img/header.png);
+	background-image: url('../img/header.jpg');
+
+	background-size: cover;
+	height: 100%;
 }
 .navbar-default {
   background-color: transparent;
